@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SIAKAD</title>
+</head>
+<body>
+	<h1>Universitas Trunojoyo Madura</h1>
+	<h2>Fakultas Teknik</h2>
+	<h2 align="center">KARTU RENCANA STUDI</h2>
+	<h3 align="center">Semester : Gasal 2019/2020</h3>
+	<br>
+	<table border="0">
+		<tr>
+			<td>Nama</td>
+			<td>:</td>
+			<td>Firda Ayu Safitri</td>
+		</tr>
+		<tr>
+			<td>NIM</td>
+			<td>:</td>
+			<td>190411100098</td>
+		</tr>
+		<tr>
+			<td>Program Studi</td>
+			<td>:</td>
+			<td>TEKNIK INFORMATIKA - S1 Reguler</td>
+		</tr>
+		<tr>
+			<td>Dosen PA</td>
+			<td>:</td>
+			<td>WAHYUDI SETIAWAN, S.kom., M.kom.</td>
+		</tr>
+
+	</table>
+</body>
+</html>
